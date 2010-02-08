@@ -1,0 +1,10 @@
+F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\obj\Debug\Interop.MeadeEx.dll
+F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\obj\Debug\Interop.ScopeSim.dll
+F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\obj\Debug\MeadeAscomTest.csproj.ResolveComReference.cache
+F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\bin\Debug\MeadeAscomTest.exe
+F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\bin\Debug\MeadeAscomTest.pdb
+F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\bin\Debug\Interop.MeadeEx.dll
+F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\bin\Debug\Interop.ScopeSim.dll
+F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\obj\Debug\MeadeAscomTest.exe
+F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\obj\Debug\MeadeAscomTest.pdb
