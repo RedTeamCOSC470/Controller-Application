@@ -12,3 +12,35 @@ F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\obj\Debug\Interop.V
 F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\obj\Debug\MeadeAscomTest.csproj.ResolveComReference.cache
 F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\obj\Debug\MeadeAscomTest.exe
 F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\obj\Debug\MeadeAscomTest.pdb
+F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\bin\Debug\nunit.framework.dll
+F:\Visual Studio 2008\Projects\MeadeAscomTest\MeadeAscomTest\bin\Debug\nunit.framework.xml
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\Interop.MeadeEx.dll
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\Interop.ScopeSim.dll
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\Interop.VBA.dll
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\MeadeAscomTest.csproj.ResolveComReference.cache
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\MeadeAscomTest.exe
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\MeadeAscomTest.pdb
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\MeadeAscomTest.exe
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\MeadeAscomTest.pdb
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\Interop.MeadeEx.dll
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\Interop.MiniSAC.dll
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\Interop.ScopeSim.dll
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\Interop.VBA.dll
+C:\Users\Robert\Downloads\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\Interop.MiniSAC.dll
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\MeadeAscomTest.exe
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\MeadeAscomTest.pdb
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\nunit.framework.dll
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\nunit.framework.xml
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\Interop.MeadeEx.dll
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\Interop.MiniSAC.dll
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\Interop.ScopeSim.dll
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\bin\Debug\Interop.VBA.dll
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\ResolveAssemblyReference.cache
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\Interop.MeadeEx.dll
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\Interop.MiniSAC.dll
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\Interop.ScopeSim.dll
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\Interop.VBA.dll
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\MeadeAscomTest.csproj.ResolveComReference.cache
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\MeadeAscomTest.exe
+F:\MeadeAscomTest\MeadeAscomTest\MeadeAscomTest\obj\Debug\MeadeAscomTest.pdb

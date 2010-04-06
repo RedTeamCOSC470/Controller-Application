@@ -12,7 +12,8 @@ namespace MeadeAscomTest
         [Test]
         public void Test()
         {
-            Assert.AreEqual(1,1);
+            double RA = Program.getRA(12, 34, 56);
+            Assert.AreEqual(RA,1);
         }
     }
 }
