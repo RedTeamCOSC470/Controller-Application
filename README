@@ -1,0 +1,18 @@
+This repository is only used for storing our files related to the C# application which controls the telescope and camera.
+
+For more information about the Stargazer project, please visit our wiki page at:
+http://wiki.github.com/RedTeamCOSC470/Stargazer
+
+All repositories associated with the Stargazer project include:
+
+  -- Web Application:
+  Desc: Handles the client requests from PC and mobile device users.
+  Link: http://github.com/RedTeamCOSC470/Stargazer
+  
+  -- Telescope-Controlling Application:
+  Desc: Handles actual telescope positioning and signalling of the camera to capture images.
+  Link: http://github.com/RedTeamCOSC470/Controller-Application
+  
+  -- Documentation:
+  Desc: Stores all documentation and design related to the Stargazer project.
+  Link: http://github.com/RedTeamCOSC470/Documentation
